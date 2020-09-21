@@ -97,7 +97,6 @@ setuptools.setup(
     packages=["pvporcupine"],
     install_requires=[
         "pysoundfile>=0.9.0",
-        "enum34==1.1.6",
         "numpy",
         "pyaudio",
     ],
